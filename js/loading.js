@@ -1,4 +1,8 @@
 loadText = document.querySelector('.loading-text')
 
-loadText.innerText = "7%"
-console.log("HELLO")
+load = 90
+
+loadText.innerText = '$(load)%'
+loadText.style.opacity
+
+
