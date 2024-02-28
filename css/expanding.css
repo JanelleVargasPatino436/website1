@@ -29,6 +29,7 @@ body {
     flex: 0.5;
     margin: 10px;
     position: relative;
+    transition: flex is ease-in;
 }
 
 .panel.active {
@@ -45,6 +46,7 @@ body {
 }
 .panel.active h3 {
     opacity: 1;
+    transition: opacity .3s ease-in 0.4s;
 }
 
 
