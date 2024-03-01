@@ -7,3 +7,10 @@ body {
     justify-content: center;
     margin: 0;
 }
+
+.sound {
+    height: 50px;
+    width: 50vw;
+    position: relative;
+}
+
