@@ -23,4 +23,11 @@ body {
     backgroudn-size: cover;
     background-position: bottom center;
     height: 100vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    margin-
 }
