@@ -20,4 +20,7 @@ body {
 .hero {
     background-image: url(images/freedom.jpg);
     background-repeat: no-repeat;
+    backgroudn-size: cover;
+    background-position: bottom center;
+    height: 100vh;
 }
