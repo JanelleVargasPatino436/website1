@@ -19,4 +19,5 @@ body {
 
 .hero {
     background-image: url(images/freedom.jpg);
+    background-repeat: no-repeat;
 }
