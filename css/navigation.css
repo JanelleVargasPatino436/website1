@@ -20,7 +20,7 @@ body {
 .hero {
     background-image: url(images/computer.jpg);
     background-repeat: no-repeat;
-    background-size: ccover;
+    background-size: cover;
     background-position: bottom center;
     height: 100vh;
     color: white;
