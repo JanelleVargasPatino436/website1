@@ -12,7 +12,9 @@ body {
     justify-content: center;
     margin: 0;
     font-family: "Mulish", sans-serif;
+    link: top;
 }
+
 
 .container {
     width: 90vw;
